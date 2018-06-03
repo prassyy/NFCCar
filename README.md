@@ -1,4 +1,5 @@
 Android-NFC-P2P-Communication
 =============================
 
-Android P2P communication over NFC allowing 2 devices to exchange messages wirelessly
+Implementation derived from P2P communication code provided by `tonybeltramelli` in
+https://github.com/tonybeltramelli/Android-NFC-P2P-Communication
